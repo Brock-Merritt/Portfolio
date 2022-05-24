@@ -1,5 +1,6 @@
 import React from 'react';
 // import { Link } from 'react-router-dom';
+import "./index.css"
 
 
 
@@ -8,12 +9,8 @@ function Header(props) {
     return(
         
         <header>
-            <div >
-
-
-
-                
-                <h1 className='header'>Brocks Portfolio</h1>
+            <div>
+                <h1 className="header">Brocks Portfolio</h1>
             </div>
             {props.children}
         </header>

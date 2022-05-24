@@ -17,7 +17,7 @@ function Nav(props) {
 
     return ( 
         <nav className="flex-row px-1">
-            <ul className= 'balls'>
+            <ul className= 'nav'>
                 {pages.map((page) => {
                     
                     return <ul className = {`text-decoration: none , mx-5 ${currentPage.name === page.name && 'navActive'}`} key= {page.name}>
