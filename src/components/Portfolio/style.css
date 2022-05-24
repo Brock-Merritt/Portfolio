@@ -1,3 +1,10 @@
+
+
+img {
+    padding:100px;
+    max-width: 70%;
+}
+
 div {
     align-items: center;
     text-align: center;
@@ -5,8 +12,4 @@ div {
     font-family: Arial;
     background-color: lightblue;
     
-}
-
-img {
-    max-width: 80%;
 }

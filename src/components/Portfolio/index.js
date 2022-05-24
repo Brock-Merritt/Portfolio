@@ -55,20 +55,20 @@ function Portfolio() {
     ]);
 
     return(
-        <div>
+        
             <div className='flex-row'>
                 {projects.map((project) =>{
                     return <Project
-                    project={project}
                     key={project.name}
+                    project={project}
+                    
                     />
-
                 }
                  )}
                 
 
             </div>
-        </div>
+        
     )
 
 };
