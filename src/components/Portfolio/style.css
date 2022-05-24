@@ -4,4 +4,9 @@ div {
     border-bottom: thick;
     font-family: Arial;
     background-color: lightblue;
+    
+}
+
+img {
+    max-width: 80%;
 }
