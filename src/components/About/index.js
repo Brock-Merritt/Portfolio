@@ -2,6 +2,8 @@ import React from 'react'
 import coverImage from '../../Assets/Screenshot 2022-01-16 190211.jpg'
 import './index.css'
 import GitHubIcon from '@mui/icons-material/GitHub';
+import LinkedInIcon from '@mui/icons-material/LinkedIn';
+import ArticleIcon from '@mui/icons-material/Article';
 
 function About() {
   
@@ -12,7 +14,9 @@ function About() {
           
         </div>
         <div className='links'>
-        <GitHubIcon></GitHubIcon>
+        <GitHubIcon fontSize='large'></GitHubIcon>
+        <LinkedInIcon fontSize='large'></LinkedInIcon>
+        <ArticleIcon fontSize='large'></ArticleIcon>
         </div>
       
 

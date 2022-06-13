@@ -9,19 +9,24 @@
     position: relative;
     margin-left: 150px;
     
-    display: flex;
+  
     
 }
 
 .container{ 
     display: flex;
+    
 }
 
 .links{
-    display: flex;
-    position: relative;
-    left:300px;
+    display: flexbox;
+    flex: 1;
+    justify-content: space-between;
+    font-size: large;
+    
+    
+    
 
-    size: 50px;
+    
     
 }
