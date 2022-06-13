@@ -14,9 +14,9 @@ function About() {
           
         </div>
         <div className='links'>
-        <GitHubIcon fontSize='large'></GitHubIcon>
-        <LinkedInIcon fontSize='large'></LinkedInIcon>
-        <ArticleIcon fontSize='large'></ArticleIcon>
+        <GitHubIcon style={{fontSize: 55 }}></GitHubIcon>
+        <LinkedInIcon style={{fontSize: 55 }}></LinkedInIcon>
+        <ArticleIcon style={{fontSize: 55 }}></ArticleIcon>
         </div>
       
 
