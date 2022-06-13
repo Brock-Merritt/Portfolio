@@ -7,6 +7,21 @@
     box-shadow: 4px 3px 3px 1px rgba(0,0,0,0.58);
     padding: 10px;
     position: relative;
-    left: 150px;
+    margin-left: 150px;
+    
+    display: flex;
+    
+}
+
+.container{ 
+    display: flex;
+}
+
+.links{
+    display: flex;
+    position: relative;
+    left:300px;
+
+    size: 50px;
     
 }
