@@ -3,12 +3,24 @@
     font-size: 37px;
     margin: 0;
     line-height: 1.7;
-    
-    text-align: left;
+    padding: 10px;
+    text-align: center;
+    display: flex;
   }
 
-
-.icons{
-  
-  
+.headerLeft{
+  background-color: teal;
+  align-items: center;
+  padding: 400px;
 }
+
+
+/* .icons{
+  margin: auto;
+  display: flex;
+  justify-content: space-around;
+  align-items: center ;
+  font-size: 40px;
+  background-color: teal;
+  
+} */

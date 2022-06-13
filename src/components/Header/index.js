@@ -1,7 +1,7 @@
 import React from 'react';
 // import { Link } from 'react-router-dom';
 import "./index.css"
-import GitHubIcon from '@mui/icons-material/GitHub';
+
 
 
 function Header(props) {
@@ -9,15 +9,18 @@ function Header(props) {
     return(
         
         <header>
-            <div>
+            
                 <div className="header">
-                    Brocks Portfolio
-                    {/* <div className='icons'><GitHubIcon></GitHubIcon></div> */}
-                    
+                    Brock's Portfolio 
                     
                 </div>
+                {/* <div className="icons">
+                    <h1>hello</h1>
+                    <GitHubIcon></GitHubIcon>
+
+                </div> */}
                 
-            </div>
+            
             {props.children}
         </header>
     );
