@@ -8,9 +8,6 @@
     padding: 10px;
     position: relative;
     margin-left: 180px;
-    
-  
-    
 }
 
 .container{ 
@@ -23,10 +20,4 @@
     flex: 1;
     justify-content: space-between;
     font-size: large;
-    
-    
-    
-
-    
-    
 }

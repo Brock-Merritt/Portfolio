@@ -14,9 +14,15 @@ function About() {
           
         </div>
         <div className='links'>
-        <GitHubIcon style={{fontSize: 55 }}></GitHubIcon>
-        <LinkedInIcon style={{fontSize: 55 }}></LinkedInIcon>
-        <ArticleIcon style={{fontSize: 55 }}></ArticleIcon>
+          <a href="https://github.com/Brock-Merritt">
+            <GitHubIcon style={{fontSize: 55 }}></GitHubIcon>
+          </a>
+          <a href="https://www.linkedin.com/in/brockmerritt/">
+            <LinkedInIcon style={{fontSize: 55 }}></LinkedInIcon>
+          </a>
+          <a href="https://docs.google.com/document/d/1Z6oMehuoRsdIS8Tiu6D_gKl2YKis99pT2M_U48A7jWk/edit">
+            <ArticleIcon style={{fontSize: 55 }}></ArticleIcon>
+          </a>
         </div>
       
 
