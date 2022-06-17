@@ -11,7 +11,7 @@ function Portfolio() {
             name: 'Relaxn',
             description: 'Premier relaxation website',
             link:'https://relaxn.herokuapp.com/' ,
-            repo:'git@github.com:Brock-Merritt/Relaxn.git'
+            repo:'https://github.com/Brock-Merritt/Relaxn'
         },
         {
             name: 'NoteTaker',
