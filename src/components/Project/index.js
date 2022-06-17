@@ -29,6 +29,12 @@ function Project({project}) {
                         <i className="fab fa-github"></i>
                     </a>
 
+
+                </h3>
+                <h3>
+                    <a href={repo}>
+                        {repo}
+                    </a>
                 </h3>
                 <p>{description}</p>
 
