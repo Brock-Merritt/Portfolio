@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.c3626d33.css",
-    "main.js": "/Portfolio/static/js/main.1bb0faba.js",
+    "main.css": "/Portfolio/static/css/main.88a9ffc2.css",
+    "main.js": "/Portfolio/static/js/main.1b6f4c5b.js",
     "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/TuneItUp.jpg": "/Portfolio/static/media/TuneItUp.6376c9557b1ab2518e34.jpg",
     "static/media/Screenshot 2022-01-16 190211.jpg": "/Portfolio/static/media/Screenshot 2022-01-16 190211.0e0cba2e5f9e2849f20a.jpg",
@@ -12,12 +12,12 @@
     "static/media/Budget-Tracker.jpg": "/Portfolio/static/media/Budget-Tracker.804fd59e5e2a0c4cc63a.jpg",
     "static/media/Brocks-Fantastic-Quiz.jpg": "/Portfolio/static/media/Brocks-Fantastic-Quiz.5382a6dc8643b9e42373.jpg",
     "index.html": "/Portfolio/index.html",
-    "main.c3626d33.css.map": "/Portfolio/static/css/main.c3626d33.css.map",
-    "main.1bb0faba.js.map": "/Portfolio/static/js/main.1bb0faba.js.map",
+    "main.88a9ffc2.css.map": "/Portfolio/static/css/main.88a9ffc2.css.map",
+    "main.1b6f4c5b.js.map": "/Portfolio/static/js/main.1b6f4c5b.js.map",
     "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c3626d33.css",
-    "static/js/main.1bb0faba.js"
+    "static/css/main.88a9ffc2.css",
+    "static/js/main.1b6f4c5b.js"
   ]
 }
