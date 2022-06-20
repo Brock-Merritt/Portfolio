@@ -1,3 +1,4 @@
+
 import React from "react";
 
 
@@ -6,7 +7,8 @@ function Project({project}) {
         name,
         repo,
         link,
-        description
+        description,
+        skills
     } = project;
 
     return(
@@ -30,6 +32,7 @@ function Project({project}) {
                     </a>
 
 
+
                 </h3>
                 <h3>
                     <a href={repo}>
@@ -37,6 +40,9 @@ function Project({project}) {
                     </a>
                 </h3>
                 <p>{description}</p>
+                <a>
+                   {skills}
+                </a>
 
             </div>
 
