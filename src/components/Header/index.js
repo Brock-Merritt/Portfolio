@@ -11,7 +11,7 @@ function Header(props) {
         <header>
             
                 <div className="header">
-                    Brock's Portfolio 
+                    Brock's Portfolio
                     
                 </div>
                 {/* <div className="icons">
