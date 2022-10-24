@@ -1,4 +1,7 @@
 .footerDiv{
-    
-    padding: 150px;
+    position: relative;;
+    left: 0;
+    bottom: 0;
+    height: 2.5rem;
+    width: 100%;
 }

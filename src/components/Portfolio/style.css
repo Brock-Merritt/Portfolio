@@ -6,10 +6,13 @@ img {
 }
 
 div {
+    height: 100%;
+    width: 100%;
     align-items: center;
     text-align: center;
     border-bottom: thick;
     font-family: Arial;
     background-color: lightblue;
+
     
 }
