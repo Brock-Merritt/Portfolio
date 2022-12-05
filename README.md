@@ -1,11 +1,10 @@
 
 # Brock's Professional Portfolio
 
-![image](https://user-images.githubusercontent.com/88811836/173424150-6512e100-afb5-436a-84a1-ec899cb0423f.png)
+![image](https://user-images.githubusercontent.com/88811836/205722083-0cc96103-a13b-449b-b27d-99a5eccf9585.png)
+![image](https://user-images.githubusercontent.com/88811836/205722122-1a8bcecf-46b2-4ac2-9835-005bd818de05.png)
+![image](https://user-images.githubusercontent.com/88811836/205722145-353ac38d-742c-451a-b912-56f848e87ed0.png)
 
-
-## Description 
-This is the portfolio that I have created to show my knowledge, skills, and past assignments. I will be constantly updating and refining it throughout my career, as learning never stops in life.
 
 ## Table of Contents
 * [Description](#Description)
@@ -20,16 +19,17 @@ This is the portfolio that I have created to show my knowledge, skills, and past
 
 * [Personal Info](#Github)
 
-    
-## Usage 
-Fully accessable through either a link or the Github Pages tab
+## Description 
+This is the portfolio that I have created to show my knowledge, skills, and past assignments. I will be constantly updating and refining it throughout my career, as learning never stops in life.
 
-## Contributors 
-Brock Merritt
+## Usage 
+Fully accessable through either this link(https://brock-merritt.github.io/Portfolio/) or the Github Pages tab
 
 ## License
 MIT
 
+## Contributors 
+Brock Merritt
 
 ## Personal Information
     *Please contact at:
