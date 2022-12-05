@@ -28,6 +28,7 @@ function App() {
   
 
   return (
+    
     <div className="App">
       <Header className="App-header">
       <Nav 
@@ -44,7 +45,7 @@ function App() {
       </main>
       
       
-      <Footer />
+      {/* <Footer /> */}
     </div>
   );
 }

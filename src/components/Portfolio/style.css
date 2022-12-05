@@ -12,7 +12,7 @@ div {
     text-align: center;
     border-bottom: thick;
     font-family: Arial;
-    background-color: lightblue;
+    background: linear-gradient(to right, #00AAFF, #2efd84);
 
     
 }

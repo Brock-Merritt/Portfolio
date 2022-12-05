@@ -1,0 +1,15 @@
+.contactContainer{
+    display: flex;
+    justify-content: center;
+}
+
+.titleDiv {
+    font-size: 60px;
+}
+
+.contactDiv{
+    display: flex;
+    justify-content: center;
+    font-size: 50px;
+
+}

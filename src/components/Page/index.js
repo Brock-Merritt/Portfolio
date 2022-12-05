@@ -24,6 +24,7 @@ function Page({ currentPage }) {
     };
     return ( 
         <section>
+            {/* <title>hello</title> */}
             <h2>{currentPage.name}</h2>
             <PageContent>{renderPage()}</PageContent>
         </section>
