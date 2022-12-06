@@ -1,8 +1,11 @@
 
 
 img {
-    padding:100px;
-    max-width: 70%;
+    padding:auto;
+    max-width: 700px;
+    box-shadow: 0px 1px 0px 4px rgba(0,0,0,0.59);
+    -webkit-box-shadow: 0px 1px 0px 4px rgba(0,0,0,0.59);
+    -moz-box-shadow: 0px 1px 0px 4px rgba(0,0,0,0.59);
 }
 
 div {
@@ -13,6 +16,22 @@ div {
     border-bottom: thick;
     font-family: Arial;
     background: linear-gradient(to right, #00AAFF, #2efd84);
+   
 
     
 }
+
+h3 {
+    padding:3px;
+    
+}
+/* 
+a {
+    padding-bottom: ;
+    
+}
+
+.p {
+    padding: 300 px;
+    
+} */

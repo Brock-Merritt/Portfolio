@@ -8,16 +8,23 @@
     padding: 10px;
     position: relative;
     margin-left: 180px;
+    justify-content: center;
+    background: rgb(240, 240, 240);
 }
 
 .container{ 
-    display: flex;
+    /* display: flex; */
+
     
 }
 
 .links{
-    display: flexbox;
-    flex: 1;
-    justify-content: space-between;
+    /* -webkit-box-shadow: 4px 3px 3px 1px rgba(0,0,0,0.58); 
+    box-shadow: 4px 3px 3px 1px rgba(0,0,0,0.58); */
+/*     
+    flex-direction: column;
+    justify-content:space-around;
     font-size: large;
+    background-color: gray;
+     */
 }

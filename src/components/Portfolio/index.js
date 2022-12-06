@@ -62,23 +62,16 @@ function Portfolio() {
     ]);
 
     return(
-        
-            <div className='flex-row'>
+            <div className='portDiv'>
                 {projects.map((project) =>{
                     return <Project
                     key={project.name}
                     project={project}
-                    
-                    
                     />
                 }
                  )}
-                
-
             </div>
-        
     )
-
 };
 
 export default Portfolio;
